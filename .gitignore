@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# shell generated files
+.zsh_history
+.zcompdump*
+*.zwc
+
+# tmux plugins / downloaded dependencies
+.config/tmux/plugins/
+
+# dependencies
+node_modules/
+
+# secrets / env files
+.env
+*.pem
+*.key
+id_rsa
+id_ed25519
